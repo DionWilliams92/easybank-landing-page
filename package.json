@@ -1,0 +1,22 @@
+{
+  "name": "easy-bank-landing",
+  "version": "1.0.0",
+  "description": "Simple Landing Page for Easy Banking Inc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dionte Williams",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^5.0.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.13",
+    "cssnano": "^4.1.10",
+    "gulp-postcss": "^9.0.0",
+    "gulp-terser": "^2.0.1"
+  }
+}
